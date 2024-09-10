@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AmaraWeb3
 - 👀 I’m interested in everything web3
-- 🌱 I’m currently learning blockchain basics on cyfrin updraft
+- 🌱 I’m currently learning blockchain basics on updraft.cyfrin.io
 - 💞️ I’m looking to collaborate with learners and experts to grow
-- 😄 Pronouns: Her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I do not know my way around here and I have been a noob for about 3 years, but it all ends today, 10 sept 2024
 
 <!---
